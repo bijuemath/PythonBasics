@@ -1,0 +1,9 @@
+venv*/
+.venv*/
+envpe*/
+myenv*/
+.env*/
+env*/
+chroma_db/
+.env
+*.env
