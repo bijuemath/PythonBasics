@@ -1,9 +1,21 @@
-venv*/
-.venv*/
-envpe*/
-myenv*/
-.env*/
-env*/
-chroma_db/
+# Environment files
 .env
 *.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+envvecdb/
+
+# Chroma DB
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+myenvfs/
+venvDay2/
+envpe/
+envtemp/
