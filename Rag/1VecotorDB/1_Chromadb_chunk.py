@@ -40,7 +40,7 @@ client = chromadb.PersistentClient(
 )
 
 # Create collection
-collection = client.create_collection(name="quantum_notes")
+collection = client.get_or_create_collection(name="quantum_notes")
 
 # -----------------------------------
 # Load Embedding Model
