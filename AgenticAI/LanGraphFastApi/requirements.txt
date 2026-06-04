@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openrouter
+langchain-openai
+pyodbc
+pandas
+python-dotenv
+streamlit
+fastapi 
+uvicorn 
+
